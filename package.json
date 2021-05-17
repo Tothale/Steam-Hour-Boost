@@ -1,0 +1,29 @@
+{
+  "name": "steam-hour-boost",
+  "version": "1.0.0",
+  "description": "This is a simple script to boost your steam game hours like Counter-Strike: Global Offensive.",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tothale/Steam-Hour-Boost.git"
+  },
+  "keywords": [
+    "Steam",
+    "Hour",
+    "Boost"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "steam-user": "^4.15.3",
+    "node-datetime": "^2.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Tothale/Steam-Hour-Boost/issues"
+  },
+  "homepage": "https://github.com/Tothale/Steam-Hour-Boost#readme"
+}
