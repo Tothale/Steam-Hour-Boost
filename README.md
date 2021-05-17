@@ -9,9 +9,7 @@ Clone this repository.
 
 Open command prompt (You can use Windows Powershell with `shift + right click` and `Open PowerShell window here`) and write:
 
-`npm install steam-user`
-
-`npm install node-datetime`
+`npm install` or `npm i`
 
 Modify the **Config.json** as you want.
 
